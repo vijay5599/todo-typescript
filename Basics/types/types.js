@@ -1,0 +1,12 @@
+// let myFullName = "vijay b";
+// let myFN = "vijay";
+// let myLN = "b";
+// myFullName = myFN + myLN;
+// console.log(myFullName);
+// let longText: string = "hi guys how are you?";
+// let shortText: string = longText.substring(0, 6);
+// console.log(shortText);
+// console.log(longText === shortText);
+var product = "Iphone";
+var price = 34000;
+console.log("The product ".concat(product, " is priced at price ").concat(price));
